@@ -1,0 +1,2 @@
+Git Training - Day1
+To edit the TODO.txt for eg., click on the commit and right click. Followed by edit.
